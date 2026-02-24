@@ -36,7 +36,7 @@ export default function Portfolio() {
   const skillGroups = [
     { category: "Languages", skills: ["TypeScript", "JavaScript", "Python", "SQL", "C++", "Java"] },
     { category: "Frontend", skills: ["React", "Next.js", "Tailwind CSS", "shadcn/ui", "MUI"] },
-    { category: "Backend", skills: ["Node.js", "Express", "REST APIs", "Clerk"] },
+    { category: "Backend", skills: ["Node.js", "Express", "REST APIs", "Clerk", "MongoDB"] },
     { category: "Cloud & Concepts", skills: ["AWS", "GCP", "Agile", "SDLC", "CI/CD"] }
   ];
 
