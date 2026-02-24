@@ -79,6 +79,14 @@ export default function Portfolio() {
             >
                 About
             </a>
+                <a 
+                href="/Abhinav_Kataria_Resume.pdf" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-slate-400 hover:text-blue-400 transition-colors"
+            >
+                Resume
+            </a>
             <a 
                 href="mailto:abhinav.kataria1000@gmail.com" 
                 className="text-slate-400 hover:text-blue-400 transition-colors"
